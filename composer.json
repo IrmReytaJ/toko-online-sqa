@@ -1,0 +1,17 @@
+{
+    "name": "irma/toko-online-pjbl",
+    "autoload": {
+        "psr-4": {
+            "Irma\\TokoOnlinePjbl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "irmareyta",
+            "email": "irmaressw@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
