@@ -20,6 +20,10 @@ class ComposerStaticInit20ce484ad9479e1cbb1937a4694fb2e4
         array (
             'Irma\\TokoOnlinePjbl\\' => 20,
         ),
+        'F' => 
+        array (
+            'Facebook\\WebDriver\\' => 19,
+        ),
         'D' => 
         array (
             'DeepCopy\\' => 9,
@@ -34,6 +38,10 @@ class ComposerStaticInit20ce484ad9479e1cbb1937a4694fb2e4
         'Irma\\TokoOnlinePjbl\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'Facebook\\WebDriver\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/php-webdriver/webdriver/lib',
         ),
         'DeepCopy\\' => 
         array (
