@@ -11,7 +11,7 @@ class SystemTest extends TestCase{
 
     protected function setUp(): void{
         // Mengarahkan ke server ChromeDriver lokal / GitHub Actions
-        $host = 'http://localhost:9515';
+        $host = 'http://127.0.0.1:9515';
 
         $chromeOptions = new ChromeOptions();
         // Mode Headless sangat krusial agar tidak error saat berjalan di GitHub Actions
